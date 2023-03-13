@@ -351,6 +351,7 @@ margin-bottom: 0;
   color:var(--NAVYBLUE);
   margin-top: 32px;
   margin-bottom: 8px;
+  margin-left: 16px;
 }
 .portfolio-text {
   font-weight: 400;
@@ -359,6 +360,7 @@ margin-bottom: 0;
   letter-spacing: 0.02em;
   color: var(--darkgrey);
   margin-bottom: 32px;
+  margin-left: 16px;
 }
 .portfolio-carts{
   border: 1px solid;
